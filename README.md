@@ -83,4 +83,11 @@ A detailed explanation of the project, including the data cleaning process, data
 
 [Read the full project walkthrough](PUT_YOUR_LINK_HERE)
 
+---
+
+## 📥 Download the Project
+
+The complete Excel project file, including data modeling, DAX measures, PivotTables, and interactive dashboards, is available below.
+
+[**Download the Excel Project**](https://docs.google.com/spreadsheets/d/13C5fH46YIJTxuZApWNH_I1zb55ANY3Vg/edit?usp=sharing&ouid=115094022103115475344&rtpof=true&sd=true)
 
